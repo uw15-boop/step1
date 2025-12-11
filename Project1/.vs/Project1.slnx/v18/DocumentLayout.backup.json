@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\ujw12\\Desktop\\Project1\\",
+  "WorkspaceRootPath": "C:\\Users\\ujw12\\Desktop\\step1\\Project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{722A12F6-9F6B-44B2-A7D2-74036175A1E0}|Project1.vcxproj|C:\\Users\\ujw12\\Desktop\\Project1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{722A12F6-9F6B-44B2-A7D2-74036175A1E0}|Project1.vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\Project1\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{722A12F6-9F6B-44B2-A7D2-74036175A1E0}|Project1.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B651FE-0488-4AE4-8C4B-B60BA5C21CB9}|..\\class1th(compile)\\class1th(compile).vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\class1th(compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +17,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Desktop\\step1\\class1th(compile)\\source.c",
+              "RelativeDocumentMoniker": "..\\class1th(compile)\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Desktop\\step1\\class1th(compile)\\source.c",
+              "RelativeToolTip": "..\\class1th(compile)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T11:47:10.298Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\ujw12\\Desktop\\Project1\\source.c",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Desktop\\step1\\Project1\\source.c",
               "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\ujw12\\Desktop\\Project1\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Desktop\\step1\\Project1\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:22:13.684Z",
               "EditorCaption": ""
