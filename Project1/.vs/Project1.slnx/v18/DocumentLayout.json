@@ -7,10 +7,13 @@
       "RelativeMoniker": "D:0:0:{722A12F6-9F6B-44B2-A7D2-74036175A1E0}|Project1.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D2B651FE-0488-4AE4-8C4B-B60BA5C21CB9}|..\\class1th(compile)\\class1th(compile).vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\class1th(compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{502FBEEA-DE86-4902-91EB-A1F1254D08E6}|..\\class2th (Variable \u0026 Constant)\\class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\class2th (Variable \u0026 Constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{502FBEEA-DE86-4902-91EB-A1F1254D08E6}|..\\class2th (Variable \u0026 Constant)\\class2th (Variable \u0026 Constant).vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\class2th (Variable \u0026 Constant)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{CBC0B9AE-0933-4070-BDD6-AB9C01E4970D}|..\\class3th (\uBE44\uD2B8)\\class3th (\uBE44\uD2B8).vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\class3th (\uBE44\uD2B8)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2B651FE-0488-4AE4-8C4B-B60BA5C21CB9}|..\\class1th(compile)\\class1th(compile).vcxproj|C:\\Users\\ujw12\\Desktop\\step1\\class1th(compile)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,13 +31,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Desktop\\step1\\class2th (Variable \u0026 Constant)\\source.c",
               "RelativeDocumentMoniker": "..\\class2th (Variable \u0026 Constant)\\source.c",
               "ToolTip": "C:\\Users\\ujw12\\Desktop\\step1\\class2th (Variable \u0026 Constant)\\source.c",
               "RelativeToolTip": "..\\class2th (Variable \u0026 Constant)\\source.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-12T11:35:18.037Z",
               "EditorCaption": ""
@@ -47,14 +50,27 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\ujw12\\Desktop\\step1\\Project1\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAADUAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-12-10T12:22:13.684Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\ujw12\\Desktop\\step1\\class3th (\uBE44\uD2B8)\\source.c",
+              "RelativeDocumentMoniker": "..\\class3th (\uBE44\uD2B8)\\source.c",
+              "ToolTip": "C:\\Users\\ujw12\\Desktop\\step1\\class3th (\uBE44\uD2B8)\\source.c",
+              "RelativeToolTip": "..\\class3th (\uBE44\uD2B8)\\source.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-15T12:13:44.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\ujw12\\Desktop\\step1\\class1th(compile)\\source.c",
               "RelativeDocumentMoniker": "..\\class1th(compile)\\source.c",
